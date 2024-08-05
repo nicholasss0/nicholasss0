@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+- Estou ainda aprendendo, mas farei algumas coisas no futuro
+- Curto Python mas não Java :P
+- Cursando Análise e Desenvolvimento de Sistemas
+- He/him
+
 <!--
 **nicholasss0/nicholasss0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
