@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 
-- Estou ainda aprendendo, mas farei algumas coisas no futuro
 - Curto Python mas não Java :P
 - Cursando Análise e Desenvolvimento de Sistemas
+- Atualmente mexendo com Análise e Estrutura de Dados
+- Domínio em Python, Django, Pandas
+- Aprendendo React Native e Flask
+- Aprendendo Flask
 - He/him
 
 <!--
