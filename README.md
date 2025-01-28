@@ -2,7 +2,7 @@
 
 
 - Cursando Análise e Desenvolvimento de Sistemas
-- Atualmente mexendo com Análise e Estrutura de Dados
+- Atualmente mexendo com Desenvolvimento Web com React e criação de APIs python
 - Domínio em Python, Django, Pandas, Flask, FastAPI, React Native, Next.js, Vite
 - He/him
 
