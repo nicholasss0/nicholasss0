@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hello there 👋
 
 
-- Curto Python mas não Java :P
 - Cursando Análise e Desenvolvimento de Sistemas
 - Atualmente mexendo com Análise e Estrutura de Dados
-- Domínio em Python, Django, Pandas
-- Aprendendo React Native e Flask
-- Aprendendo Flask
+- Domínio em Python, Django, Pandas, Flask, FastAPI, React Native, Next.js, Vite
 - He/him
 
 <!--
